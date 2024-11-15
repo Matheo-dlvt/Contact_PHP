@@ -1,0 +1,26 @@
+# Ignorer les fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration sensibles
+db.php
+
+# Ignorer les fichiers/dossiers générés
+/vendor/
+node_modules/
+composer.lock
+
+# Ignorer les fichiers de logs et temporaires
+*.log
+*.cache
+*.bak
+*.swp
+*.tmp
+.env
+
+# Ignorer les fichiers IDE (ex. : VS Code, PhpStorm)
+.idea/
+.vscode/
+
+# Ignorer les fichiers système
+*.zip

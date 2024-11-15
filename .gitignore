@@ -1,9 +1,8 @@
+## Source : Chat GPT
+
 # Ignorer les fichiers spécifiques au système d'exploitation
 .DS_Store
 Thumbs.db
-
-# Ignorer les fichiers de configuration sensibles
-db.php
 
 # Ignorer les fichiers/dossiers générés
 /vendor/
